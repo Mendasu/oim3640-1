@@ -15,6 +15,7 @@ import random
 # print('\\\n\\')
 # print(r'\\\n\\')
 # # print(r'\ \') # TODO: Figure this out
+# Explanation: https://docs.python.org/3/reference/lexical_analysis.html#index-24
 # print(r'C:\user\documents')
 
 # print('''Multiple
